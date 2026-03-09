@@ -28,3 +28,4 @@ Just ask naturally. Examples:
 ## Notes
 - Use this instead of switching to Gemini for quick lookups
 - For deep research, say "deep search on X" and Claude will run multiple queries and synthesize
+- For investigation that needs context-awareness, saved reports, or live Google Search grounding — escalate to the `research` skill instead. Rule of thumb: quick lookup → web-search, investigation → research
