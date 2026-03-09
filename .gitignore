@@ -1,4 +1,8 @@
 .env
 CLAUDE.local.md
 .claude/settings.local.json
+.claude/worktrees/
 node_modules/
+__pycache__/
+*.pyc
+*.pptx
